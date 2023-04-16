@@ -1,6 +1,6 @@
 # Learn 💥
 
-> 1) Learning Flutter Programming Language As Beginner. [Course](https://www.udemy.com/course/flutter-for-beginners-in-arabic-2023/)
+> 1) Learning Dart Programming Language As Beginner. [Course](https://www.udemy.com/course/flutter-for-beginners-in-arabic-2023/)
 ---
 
 <div align="center">
