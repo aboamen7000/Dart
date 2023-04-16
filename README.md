@@ -1,8 +1,8 @@
-![img](https://github.com/DevIA3kl/other/blob/master/more/java_ico.png)
+![img](https://github.com/DevIA3kl/other/blob/master/more/dart_ico.png)
 
 # Dart language 💥
 
->Dart Dart is a client-optimized language for fast apps on any platform.
+>Dart is a client-optimized language for fast apps on any platform.
 
 
 ### Stage
