@@ -1,8 +1,8 @@
 ![img](https://github.com/DevIA3kl/other/blob/master/more/java_ico.png)
 
-# Java language 💥
+# Dart language 💥
 
->Java is a popular programming language, It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages.
+>Dart Dart is a client-optimized language for fast apps on any platform.
 
 
 ### Stage
